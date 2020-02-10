@@ -1,0 +1,40 @@
+
+p{
+    color: #952828;
+    
+}
+body{background-color: olive;
+
+}
+h2{color: darkslateblue;
+}
+
+h3{color: #0E2E64;
+}
+
+h1{color: darkblue;
+
+}
+p{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-size: 35px;
+font-family: 'Oswald', sans-serif;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    }
+
+    h3{
+        font-size: 20px;
+        font-family: 'Oswald', sans-serif;
+        }  
+
+        header{
+            text-align: center;
+        }
